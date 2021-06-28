@@ -1,0 +1,15 @@
+D:\Projetos\C#\Ativos\AST\bin\Debug\asteroid.exe
+D:\Projetos\C#\Ativos\AST\bin\Debug\asteroid.pdb
+D:\Projetos\C#\Ativos\AST\bin\Debug\rdcfn.dll
+D:\Projetos\C#\Ativos\AST\bin\Debug\rdcfn.pdb
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\MATH.GM.resources
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\MATH.AST.resources
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\MATH.OPT.resources
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\MATH.Properties.Resources.resources
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\asteroid.exe
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\asteroid.pdb
+D:\Projetos\C#\Ativos\AST\bin\Debug\sec.dll
+D:\Projetos\C#\Ativos\AST\bin\Debug\sec.pdb
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\MATH.SV.resources
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\AST.csprojResolveAssemblyReference.cache
+D:\Projetos\C#\Ativos\AST\obj\x86\Debug\AST.csproj.GenerateResource.Cache

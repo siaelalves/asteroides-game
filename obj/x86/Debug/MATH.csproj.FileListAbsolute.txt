@@ -1,0 +1,13 @@
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\MATH1.exe
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\MATH1.pdb
+D:\Projetos\C#\Ativos\MATH\bin\Debug\MATH1.exe
+D:\Projetos\C#\Ativos\MATH\bin\Debug\MATH1.pdb
+D:\Projetos\C#\Ativos\MATH\bin\Debug\rdcfn.dll
+D:\Projetos\C#\Ativos\MATH\bin\Debug\rdcfn.pdb
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\MATH.GM.resources
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\MATH.OPT.resources
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\MATH.Properties.Resources.resources
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projetos\C#\Ativos\MATH\obj\x86\Debug\MATH.AST.resources
